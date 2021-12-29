@@ -15,7 +15,7 @@
 [Analytical Tools](#analytical-tools)
 
 [Sources](#sources)
----
+
 
 ## Motivation
 This project explores individuals classified under the United States Citizenship and Immigration Services nonimmigrant student visa statuses.
@@ -24,7 +24,7 @@ Having grown up in Melanesia and attending international school for all my forma
 Within the American context, discussion over immigration seems to center around individuals who have an illegal status. However, there are many reasons and approved government classes for one to immigrate to America, whether on a temporary basis, as in a holiday, or for more permanent reasons. 
 
 _[Return to Contents](#contents)_
----
+
 
 ## Data Question
 Who are they –  Student and Exchange Visitor visa recipients from 2017 to 2019?
@@ -35,13 +35,13 @@ Who are they –  Student and Exchange Visitor visa recipients from 2017 to 2019
 * U.S. state of study for Students and Exchange Visitors
 
 _[Return to Contents](#contents)_
----
+
 
 ## Challenges
 * Narrowing the scope of discussion based on the timeframe for completion and availability of data
 * Initially, research was focused solely on F1 students or those pursuing academic studies in a U.S. higher educational institution. However, across multiple parameters, data was grouped according to students – that is both F1, M1 or vocational students and J1 or exchange visitors/study abroad students, and their dependents. Thus, I could not isolate for F1 students alone.
 _[Return to Contents](#contents)_
----
+
 
 ## Findings
 * 0.93 female to male ratio
@@ -51,14 +51,14 @@ _[Return to Contents](#contents)_
 * Most of the individuals study in California and New York
 
 _[Return to Contents](#contents)_
----
+
 
 ## Future Directions
 * Graduation rates and program completion for Students and Exchange Visitors
 * Levels of study – bachelors, masters, PhD
 * Programs of study – arts, science, education etc.
 _[Return to Contents](#contents)_
----
+
 
 ## Analytical Tools
 * SQL – data aggregation
@@ -68,13 +68,13 @@ _[Return to Contents](#contents)_
 * GitHub – version control
 
 _[Return to Contents](#contents)_
----
+
 
 ## Sources
-Department of Homeland Security
-Congressional Research Service
-Populationpyramid.net
-LA Times
+\Department of Homeland Security
+\Congressional Research Service
+\Populationpyramid.net
+\LA Times
 
 _[Return to Contents](#contents)_
 
