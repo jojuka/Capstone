@@ -40,6 +40,7 @@ _[Return to Contents](#contents)_
 ## Challenges
 * Narrowing the scope of discussion based on the timeframe for completion and availability of data
 * Initially, research was focused solely on F1 students or those pursuing academic studies in a U.S. higher educational institution. However, across multiple parameters, data was grouped according to students – that is both F1, M1 or vocational students and J1 or exchange visitors/study abroad students, and their dependents. Thus, I could not isolate for F1 students alone.<br/>
+<br/>
 _[Return to Contents](#contents)_
 
 
@@ -57,6 +58,7 @@ _[Return to Contents](#contents)_
 * Graduation rates and program completion for Students and Exchange Visitors
 * Levels of study – bachelors, masters, PhD
 * Programs of study – arts, science, education etc.<br/>
+<br/>
 _[Return to Contents](#contents)_
 
 
